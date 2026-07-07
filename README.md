@@ -52,19 +52,15 @@ This project was developed to strengthen my understanding of front-end web devel
 
 ## 📸 Screenshot
 
+markdown
+[CyberPass Analyzer](images/preview.png)
 
-
-
-
-```markdown
-![CyberPass Analyzer](images/preview.png)
-```
 
 ---
 
 ## 📂 Project Structure
 
-```
+
 CyberPass-Analyzer
 │
 ├── index.html
@@ -73,9 +69,9 @@ CyberPass-Analyzer
 ├── README.md
 └── images
     └── preview.png
-```
+`
 
----
+--
 
 ## 🧠 How It Works
 
