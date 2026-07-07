@@ -52,15 +52,9 @@ This project was developed to strengthen my understanding of front-end web devel
 
 ## 📸 Screenshot
 
-> *(Add your project screenshot here)*
 
-Example:
 
-```text
-images/preview.png
-```
 
-Then replace this section with:
 
 ```markdown
 ![CyberPass Analyzer](images/preview.png)
